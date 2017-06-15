@@ -1,0 +1,28 @@
+{
+  "name": "express-mongo",
+  "version": "1.0.0",
+  "description": "Crash Course with Express + MongoDB + Session & Cookies",
+  "main": "server.js",
+  "scripts": {
+    "run": "node server.js",
+    "test": ""
+  },
+  "keywords": [
+    "Express",
+    "MongoDB",
+    "EJB",
+    "SessionParser",
+    "CookieParser"
+  ],
+  "author": "Bmax-Tech",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "jade": "^1.11.0",
+    "path": "^0.12.7",
+    "mongodb": "^2.2.28"
+  }
+}
